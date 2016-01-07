@@ -6,6 +6,7 @@ package fr.istic.sir.tp_maven;
  */
 public class App 
 {
+	int m;
 	float p;
     public static void main( String[] args )
     {
